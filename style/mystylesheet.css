@@ -22,17 +22,24 @@
     body
     {
         margin: 2pc;
-        background-color: beige;
+        background-color: rgb(255, 255, 255);
     }
     
     main
     {
         margin: 4%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
     main h2
     {
         text-decoration: underline;
         text-align: center;
+    }
+  
+    section h3
+    {
+        margin: 1%;
     }
 
     #images
@@ -71,6 +78,9 @@
     footer
     {
         background-color: grey;
+        padding: 0.5%;
+        padding-left: 1%;
+        padding-right: 1%;
     }
 
    
